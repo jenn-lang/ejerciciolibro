@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.imagen {
+  width: 250px;
+  position: relative;
+}
+
+.titulo {
+  border: 10px;
+}
+
+.autor {
+  border: 20px;
+}
+.medalla {
+  width: 40px;
+  position: absolute;
+  left: 200px;
+  top: 20px;
+}
+
+body {
+  position: relative;
+  margin: 50px;
+}
